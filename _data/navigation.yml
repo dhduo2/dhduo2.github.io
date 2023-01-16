@@ -10,3 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-category:
+  - title: "Category"
+    children:
+      - title: "Paper review"
+        url: "/paper"
+      - title: "Data Science"
+        url:  "/data"
+      - title: "Text Data"
+        url:  "/text"
