@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DHDUO22-Blog"
+title                    : "dhduo22-Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "dhkim"
@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data science"
   location         : "서울시 광진구"
-  email            :
+  email            : "kadia4806@naver.com"
   links:
-    - label: "Email"
+    - label: "kadia4806@naver.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "kadia4806@naver.com"
+      #url: "kadia4806@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
