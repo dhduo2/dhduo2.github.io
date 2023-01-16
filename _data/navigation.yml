@@ -13,6 +13,8 @@ main:
 sidebar-category:
   - title: "Category"
     children:
+      - title: "Code"
+        url: "/code"
       - title: "Paper review"
         url: "/paper"
       - title: "Data Science"
