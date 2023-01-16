@@ -19,3 +19,18 @@ sidebar-category:
         url:  "/data"
       - title: "Text Data"
         url:  "/text"
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:                  # 추가한 부분
+        nav: "sidebar-category" # 추가한 부분
